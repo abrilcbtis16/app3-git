@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>21</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/galaxy/</ImageTemplate>
+            <ImageTemplateName>Galaxy</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Roboto Condensed</TemplateFont>
+            <TemplateName>galaxy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/logo.png</url>
+                <filesize>8307</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_121832.jpg</url>
+                <filesize>6230531</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_121846.jpg</url>
+                <filesize>5984234</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_121905.jpg</url>
+                <filesize>6391046</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_121913.jpg</url>
+                <filesize>6738179</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_121927.jpg</url>
+                <filesize>6861502</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_121935.jpg</url>
+                <filesize>6809215</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_121940.jpg</url>
+                <filesize>5717808</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_121954.jpg</url>
+                <filesize>6775867</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122005.jpg</url>
+                <filesize>6638795</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122011.jpg</url>
+                <filesize>5887767</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122029.jpg</url>
+                <filesize>6673741</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122036.jpg</url>
+                <filesize>6670654</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122051.jpg</url>
+                <filesize>5667467</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122057.jpg</url>
+                <filesize>6059270</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122109.jpg</url>
+                <filesize>6705341</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122119.jpg</url>
+                <filesize>6781560</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122128.jpg</url>
+                <filesize>6495631</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122134.jpg</url>
+                <filesize>7246146</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122146.jpg</url>
+                <filesize>6959157</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/20170404_122153.jpg</url>
+                <filesize>5778911</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/Instasize_0404134409.jpg</url>
+                <filesize>909573</filesize>
+            </Image>
+            <Image>
+                <url>J:/CBTIS-16 4to Semestre/DAM/2 Parcial/aplicaciones/app3/imagenes/Instasize_0404141726.jpg</url>
+                <filesize>968972</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
